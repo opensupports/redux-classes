@@ -1,0 +1,12 @@
+{
+  "name": "opensupports-redux-classes",
+  "version": "1.0.0",
+  "description": "Redux class utility from OpenSupports",
+  "repository": "https://github.com/opensupports/redux-classes.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Diaz",
+  "license": "ISC"
+}
